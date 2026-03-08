@@ -1,0 +1,19 @@
+title: aidenails
+description: Logging my sleep journey.
+url: "https://aidencullo.github.io"
+baseurl: "/aidenails"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
