@@ -24,3 +24,5 @@ For posterity, here's a quick sketch of where things stand — the full picture 
 So that's the baseline. A few years of shifting symptoms, some promising experiments, and a clean bill of health underneath it all. Plenty to work with.
 
 Time to figure this out.
+
+**→ [Taking Another Crack at It](/the-sleep-chronicles/2026/03/09/taking-another-crack-at-it/)**
