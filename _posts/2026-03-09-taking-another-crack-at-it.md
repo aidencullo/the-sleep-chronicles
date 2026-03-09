@@ -15,3 +15,5 @@ The whole conversation will be public. I'll link to it below once it's done.
 The goal isn't a miracle cure. It's just forward motion — some clarity on what might actually be going on, and a few actionable things to try. That feels worth doing.
 
 Stay tuned.
+
+**→ [The Claude Chat](/the-sleep-chronicles/2026/03/09/the-claude-chat/)**
