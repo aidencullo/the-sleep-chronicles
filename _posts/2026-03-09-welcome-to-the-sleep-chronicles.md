@@ -4,16 +4,14 @@ title: "Welcome to the Sleep Chronicles"
 date: 2026-03-09
 ---
 
-Sleep and I have a complicated relationship.
+I have a sleep problem.
 
-This is where I'm documenting it — the late nights, the early mornings, the nights I thought I'd finally fixed it only to be staring at the ceiling at 3am again. The Sleep Chronicles is my running log of that ongoing experiment.
+I've had it for a few years now. In that time I've seen doctors, done studies, tried therapies — and while some things helped a little, nothing has really stuck. At some point I just got tired (ironic, I know) of chasing a fix and let it go.
 
-## Why track this?
+But here we are. I think it's time to give it another shot.
 
-Because sleep deprivation is one of those things that quietly ruins everything else. Focus, mood, motivation, physical health — it all degrades in ways that are easy to chalk up to other causes. Keeping a log forces honesty: here's what I did, here's how I slept, here's how I felt.
+This site is where I'll be documenting that process — what I try, what works, what doesn't, and everything in between. No promises of a happy ending. Just an honest log.
 
-## What to expect here
+If you're curious about the specifics of what I'm actually dealing with, the next post breaks it all down.
 
-Posts will cover whatever I'm actually experiencing and trying — sleep hygiene changes, timing experiments, the occasional rant about waking up at 4am for no reason. No expert advice, no optimization grift. Just honest notes from someone trying to figure this out.
-
-Let's see how it goes.
+**→ [The Sleep Issues: A Portrait](/the-sleep-chronicles/2026/03/09/the-sleep-issues/)**
